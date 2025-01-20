@@ -1,0 +1,5 @@
+Flask
+pytz
+requests
+python-dotenv
+colorama
